@@ -202,7 +202,7 @@ yarn dev
 
 ## Deployment
 
-> [简体中文 > 如何部署到私人服务器](./README_CN.md#部署)
+> [简体中文 > 如何部署到私人服务器？](./README_CN.md#部署)
 
 ### Docker (Recommended)
 
